@@ -16,3 +16,7 @@ function limpar(){
     resultado = document.getElementById("resultado");
     resultado.value = null;
 }
+
+function corFundo(cor){
+    background-color: cor;
+}
