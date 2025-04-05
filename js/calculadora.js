@@ -18,5 +18,5 @@ function limpar(){
 }
 
 function corFundo(cor){
-    background-color: cor;
+    document.body.style.backgroundColor = cor;
 }
